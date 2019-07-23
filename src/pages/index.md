@@ -3,7 +3,7 @@ templateKey: index-page
 title: QUSAZ Intelligent Solutions
 image: /img/home-jumbotron.jpg
 heading: QUSAZ Intelligent Solutions
-subheading: Support sustainable farming while enjoying a cup
+subheading: Enabling sustainable technological solutions
 mainpitch:
   title: Why QUSAZ
   description: >
